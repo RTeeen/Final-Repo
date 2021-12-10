@@ -1,0 +1,9 @@
+
+.nav {
+    background-color: rgb(123, 141, 175);
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-decoration: none;
+   
+}
